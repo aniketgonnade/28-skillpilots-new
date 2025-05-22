@@ -12,3 +12,4 @@ EXPOSE 8080
 CMD ["catalina.sh", "run"]
 
 RUN echo "Hello my name is Aniket"
+RUN echo "Hello my name is Aniket"
